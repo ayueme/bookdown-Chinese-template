@@ -1,4 +1,6 @@
 # bookdown-chinese-template
+## bookdown中文模板
+
 常看本号的小伙伴应该知道我把所有医学统计相关的推文都整理成了一本书，当然也有网页免费观看版：https://ayueme.github.io/
 
 这些书都是使用`bookdown`生成的，目前本书根式已经升级了，在学习`bookdown`的过程中，我积累了2种模板，在这里分享给大家。
@@ -28,3 +30,7 @@
 - bookdown-bs4：是3列式，[R语言实战医学统计](https://ayueme.github.io/)就是用的这个模板
 
 注意，这只是模板，并不是`bookdown`使用教程，基础知识需要自己学习。
+
+## quarto中文模板
+
+`quarto-chinese.zip`是quarto中文模板。
